@@ -1,0 +1,12 @@
+.jumbotron {
+  background-color: rgb(117, 191, 194);
+  background-size: cover;
+  height: 200px;
+  text-align: center;
+}
+.carousel-item .display-4 {
+  margin-top: -400px;
+}
+.navbar {
+  background-color: aqua;
+}
